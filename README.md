@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujithkumar12
-- 👀 I’m interested in Web and Android Application Development
+- 👀 I’m interested in Web and Application Development
 - 🌱 I’m currently working ReactJs
 - 💞️ I’m looking to collaborate on MNC companies
 - 📫 How to reach me suji24478@gmail.com
